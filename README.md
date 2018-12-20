@@ -1,4 +1,4 @@
-#Clicky Game with a Street Fighter II Theme
+# Clicky Game with a Street Fighter II Theme
 
 ## Overview
 
