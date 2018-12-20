@@ -2,6 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://mvmgmdev18.github.io/ClickyGame/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
@@ -22,4 +23,5 @@
     "not ie <= 11",
     "not op_mini all"
   ]
+  
 }

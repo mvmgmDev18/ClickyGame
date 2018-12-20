@@ -1,3 +1,19 @@
+#Clicky Game with a Street Fighter II Theme
+
+## Overview
+
+For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+
+## GitHub Repo 
+https://github.com/mvmgmDev18/ClickyGame
+
+## GitHub Deployed
+https://mvmgmdev18.github.io/ClickyGame/
+
+## Portfolio updated
+https://mvmgmdev18.github.io/09-portfolio-update/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
