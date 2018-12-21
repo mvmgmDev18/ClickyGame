@@ -1,0 +1,34 @@
+.navbar {
+    background: #00A0F0;
+    min-height: 70px;
+    font-size: 18px;
+    padding: 20px 0;
+    width: 100%;
+    -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    color: #fff;
+    z-index: 99;
+    white-space: nowrap;
+  }
+  
+  .navbar div {
+    text-align: center;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .navbar div:first-child {
+    letter-spacing: 1px;
+    font-weight: 450;
+  }
+  
+  .pipe {
+    margin: 0 10px;
+  }
+  
+  .correct {
+    animation: correctGuess 0.5s;
+  }
+  .incorrect {
+    animation: incorrectGuess 0.5s;
+  }
