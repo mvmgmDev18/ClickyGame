@@ -7,7 +7,7 @@ For this assignment, you'll create a memory game with React. This assignment wil
 ## GitHub Repo 
 https://github.com/mvmgmDev18/ClickyGame
 
-## GitHub Deployed
+## GitHub Deployed to gh-pages branch
 https://mvmgmdev18.github.io/ClickyGame/
 
 ## Portfolio updated
